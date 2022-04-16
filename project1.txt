@@ -1,3 +1,5 @@
 hii this new git file
 
 hiii
+
+hiii i am in duplicate folder
