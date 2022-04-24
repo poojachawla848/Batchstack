@@ -6,4 +6,6 @@ hiii i am in duplicate folder
 
 hello conflict merge line
 
-checcking
+checcking.
+
+Hi i am shubham 
